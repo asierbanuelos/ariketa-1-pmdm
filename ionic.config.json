@@ -1,0 +1,7 @@
+{
+  "name": "Ariketa1 pmdm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
